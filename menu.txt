@@ -3,8 +3,4 @@ Apple Pie
 Cheesecake
 Chichen Tikka Masala
 TomaTo
-<<<<<<< HEAD
 충돌유발예정 - testtwo
-=======
-충돌유발예정 - testone
->>>>>>> testone
